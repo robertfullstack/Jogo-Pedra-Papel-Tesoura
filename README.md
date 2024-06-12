@@ -1,9 +1,9 @@
-<h1>Requisição AJAX em JavaScirpt</h1>
+<h1>Jogo Pedro, Papel & Tesoura</h1>
 
 <h4>Mais Informações:</h4>
 <ul>
-  <li>Front End Em Boostrap</li>
-  <li>Requisição Feita em AJAX JS</li>
+  <li>Front End Feito em HTML Simples</li>
+  <li>Sistema Feito em JavaScript</li>
 </ul>
 
 <h4>Imagens do Projeto:</h4>
